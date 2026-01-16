@@ -1,8 +1,9 @@
-# DSA Case Study: Pokedex Bubble Sort
+# DSA Group Activity: Pokedex Bubble Sort
 
 ## Overview
 This project demonstrates the **Bubble Sort algorithm** (simple comparison-based sort) using Pokémon data.
 It includes a **live step-by-step demo** and **algorithm performance analysis**.
+Made by Group 8 of BSIT 2-2.
 
 ## Features
 - Bubble sort by:
@@ -21,6 +22,10 @@ It includes a **live step-by-step demo** and **algorithm performance analysis**.
 ## Language
 - Python
 
-## How to Run
-```bash
-python dsa-bubblesort.py
+## Group Members
+1) Campano, Agnes
+2) Danac, Andrei
+3) Fabre, Margaux Louise
+4) Hernandez, Jeoffrey Isaiah
+5) Mijares, Lyle Loel
+6) Rojas, Kurt Allyn
